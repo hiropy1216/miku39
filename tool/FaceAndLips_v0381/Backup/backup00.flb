@@ -1,0 +1,1540 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FaceAndLips Version="1.0">
+  <ModelFile>C:\Users\hirop\local\git\HatsuneMiku\MMDModel\ひろルカ\ひろルカ.pmx</ModelFile>
+  <WaveFile>C:\Users\hirop\local\寛典\音楽\マジ女神\マジ女神.wav</WaveFile>
+  <FrameLength>188</FrameLength>
+  <CameraRadius>5.554795</CameraRadius>
+  <CameraPosition X="0" Y="0" Z="0">
+  </CameraPosition>
+  <CameraTheta>3.14159265358979</CameraTheta>
+  <CameraPhi>0</CameraPhi>
+  <EdgeWidth>100</EdgeWidth>
+  <FieldOfView>0.7853982</FieldOfView>
+  <Bookmarks />
+  <ItemClasses>
+    <ItemClass>
+      <Name>あ</Name>
+      <EnglishName>a</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="あ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>い</Name>
+      <EnglishName>i</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="い" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>う</Name>
+      <EnglishName>u</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="う" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>え</Name>
+      <EnglishName>e</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="え" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>お</Name>
+      <EnglishName>o</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="お" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にこり右</Name>
+      <EnglishName>Fcl_BRW_Fun_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にこり右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にこり左</Name>
+      <EnglishName>Fcl_BRW_Fun_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にこり左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にこり</Name>
+      <EnglishName>Fcl_BRW_Fun</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にこり" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にこり2右</Name>
+      <EnglishName>Fcl_BRW_Joy_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にこり2右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にこり2左</Name>
+      <EnglishName>Fcl_BRW_Joy_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にこり2左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にこり2</Name>
+      <EnglishName>Fcl_BRW_Joy</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にこり2" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>困る右</Name>
+      <EnglishName>Fcl_BRW_Sorrow_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="困る右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>困る左</Name>
+      <EnglishName>Fcl_BRW_Sorrow_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="困る左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>困る</Name>
+      <EnglishName>Fcl_BRW_Sorrow</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="困る" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>怒り右</Name>
+      <EnglishName>Fcl_BRW_Angry_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="怒り右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>怒り左</Name>
+      <EnglishName>Fcl_BRW_Angry_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="怒り左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>怒り</Name>
+      <EnglishName>Fcl_BRW_Angry</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="怒り" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>驚き右</Name>
+      <EnglishName>Fcl_BRW_Surprised_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="驚き右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>驚き左</Name>
+      <EnglishName>Fcl_BRW_Surprised_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="驚き左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>驚き</Name>
+      <EnglishName>Fcl_BRW_Surprised</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="驚き" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>下右</Name>
+      <EnglishName>brow_Below_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="下右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>下左</Name>
+      <EnglishName>brow_Below_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="下左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>下</Name>
+      <EnglishName>brow_Below</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="下" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>上右</Name>
+      <EnglishName>brow_Abobe_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="上右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>上左</Name>
+      <EnglishName>brow_Abobe_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="上左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>上</Name>
+      <EnglishName>brow_Abobe</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="上" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>右眉左</Name>
+      <EnglishName>brow_Left_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="右眉左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>左眉左</Name>
+      <EnglishName>brow_Left_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="左眉左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>眉左</Name>
+      <EnglishName>brow_Left</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="眉左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>右眉右</Name>
+      <EnglishName>brow_Right_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="右眉右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>左眉右</Name>
+      <EnglishName>brow_Right_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="左眉右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>眉右</Name>
+      <EnglishName>brow_Right</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="眉右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>右眉手前</Name>
+      <EnglishName>brow_Front_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="右眉手前" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>左眉手前</Name>
+      <EnglishName>brow_Front_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="左眉手前" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>眉手前</Name>
+      <EnglishName>brow_Front</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="眉手前" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>真面目右</Name>
+      <EnglishName>brow_Serious_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="真面目右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>真面目左</Name>
+      <EnglishName>brow_Serious_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="真面目左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>真面目</Name>
+      <EnglishName>brow_Serious</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="真面目" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ひそめ右</Name>
+      <EnglishName>brow_Frown_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ひそめ右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ひそめ左</Name>
+      <EnglishName>brow_Frown_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ひそめ左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ひそめ</Name>
+      <EnglishName>brow_Frown</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ひそめ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>びっくり右</Name>
+      <EnglishName>Fcl_EYE_Surprised_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="びっくり右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>びっくり左</Name>
+      <EnglishName>Fcl_EYE_Surprised_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="びっくり左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>びっくり</Name>
+      <EnglishName>Fcl_EYE_Surprised</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="びっくり" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>瞳小右</Name>
+      <EnglishName>eye_Small_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="瞳小右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>瞳小左</Name>
+      <EnglishName>eye_Small_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="瞳小左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>瞳小</Name>
+      <EnglishName>eye_Small</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="瞳小" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>瞳大右</Name>
+      <EnglishName>eye_Big_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="瞳大右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>瞳大左</Name>
+      <EnglishName>eye_Big_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="瞳大左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>瞳大</Name>
+      <EnglishName>eye_Big</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="瞳大" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ｳｨﾝｸ２右</Name>
+      <EnglishName>Fcl_EYE_Close_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ウィンク連動" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ｳｨﾝｸ２右連動</Name>
+      <EnglishName>Fcl_EYE_Close_R_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ｳｨﾝｸ２右連動" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ウィンク２</Name>
+      <EnglishName>Fcl_EYE_Close_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ウィンク２" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ウィンク２連動</Name>
+      <EnglishName>Fcl_EYE_Close_L_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ウィンク２連動" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>まばたき</Name>
+      <EnglishName>Fcl_EYE_Close</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="まばたき" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>まばたき連動</Name>
+      <EnglishName>Fcl_EYE_Close_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="まばたき連動" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ウィンク右</Name>
+      <EnglishName>Fcl_EYE_Joy_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ウィンク右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ウィンク右連動</Name>
+      <EnglishName>Fcl_EYE_Joy_R_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ウィンク右連動" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ウィンク</Name>
+      <EnglishName>Fcl_EYE_Joy_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ウィンク" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ウィンク連動</Name>
+      <EnglishName>Fcl_EYE_Joy_L_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ウィンク連動" Weight="100" />
+        <Facial Name="にっこり左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>笑い</Name>
+      <EnglishName>Fcl_EYE_Joy</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="笑い" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>笑い連動</Name>
+      <EnglishName>Fcl_EYE_Joy_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="笑い連動" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>目を細める右</Name>
+      <EnglishName>Fcl_EYE_Fun_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="目を細める右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>目を細める左</Name>
+      <EnglishName>Fcl_EYE_Fun_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="目を細める左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>目を細める</Name>
+      <EnglishName>Fcl_EYE_Fun</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="目を細める" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>下瞼上げ右</Name>
+      <EnglishName>raiseEyelid_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="下瞼上げ右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>下瞼上げ左</Name>
+      <EnglishName>raiseEyelid_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="下瞼上げ左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>下瞼上げ</Name>
+      <EnglishName>raiseEyelid</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="下瞼上げ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ｷﾘｯ右</Name>
+      <EnglishName>Fcl_EYE_Angry_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ｷﾘｯ右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ｷﾘｯ左</Name>
+      <EnglishName>Fcl_EYE_Angry_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ｷﾘｯ左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ｷﾘｯ</Name>
+      <EnglishName>Fcl_EYE_Angry</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ｷﾘｯ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>じと目右</Name>
+      <EnglishName>Fcl_EYE_Sorrow_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="じと目右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>じと目左</Name>
+      <EnglishName>Fcl_EYE_Sorrow_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="じと目左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>じと目</Name>
+      <EnglishName>Fcl_EYE_Sorrow</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="じと目" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>上瞼↑右</Name>
+      <EnglishName>Fcl_EYE_Spread_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="上瞼↑右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>上瞼↑左</Name>
+      <EnglishName>Fcl_EYE_Spread_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="上瞼↑左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>上瞼↑</Name>
+      <EnglishName>Fcl_EYE_Spread</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="上瞼↑" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>なぬ！右</Name>
+      <EnglishName>eye_Nanu_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="なぬ！右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>なぬ！左</Name>
+      <EnglishName>eye_Nanu_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="なぬ！左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>なぬ！</Name>
+      <EnglishName>eye_Nanu</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="なぬ！" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>はぅ</Name>
+      <EnglishName>eye_Hau</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="はぅ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>はちゅ目</Name>
+      <EnglishName>eye_Hachume</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="はちゅ目" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>なごみ</Name>
+      <EnglishName>eye_Nagomi</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="なごみ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>星目</Name>
+      <EnglishName>eye_Star</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="星目" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>はぁと</Name>
+      <EnglishName>eye_Heart</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="はぁと" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ナチュラル</Name>
+      <EnglishName>Fcl_EYE_Natural</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ナチュラル" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>白目</Name>
+      <EnglishName>Fcl_EYE_Iris_Hide</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="白目" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>白目右</Name>
+      <EnglishName>Fcl_EYE_Iris_Hide_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="白目右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>白目左</Name>
+      <EnglishName>Fcl_EYE_Iris_Hide_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="白目左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ハイライトなし</Name>
+      <EnglishName>Fcl_EYE_Highlight_Hide</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ハイライトなし" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ハイライトなし右</Name>
+      <EnglishName>Fcl_EYE_Highlight_Hide_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ハイライトなし右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ハイライトなし左</Name>
+      <EnglishName>Fcl_EYE_Highlight_Hide_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ハイライトなし左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ん</Name>
+      <EnglishName>Fcl_MTH_Neutral</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ん" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>一文字</Name>
+      <EnglishName>Fcl_MTH_Close</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="一文字" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>口上</Name>
+      <EnglishName>Fcl_MTH_Up</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="口上" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>口下</Name>
+      <EnglishName>Fcl_MTH_Down</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="口下" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>Λ右</Name>
+      <EnglishName>Fcl_MTH_Angry_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="Λ右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>Λ左</Name>
+      <EnglishName>Fcl_MTH_Angry_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="Λ左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>Λ</Name>
+      <EnglishName>Fcl_MTH_Angry</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="Λ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>口角下げ右</Name>
+      <EnglishName>Fcl_MTH_Sage_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="口角下げ右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>口角下げ左</Name>
+      <EnglishName>Fcl_MTH_Sage_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="口角下げ左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>口角下げ</Name>
+      <EnglishName>Fcl_MTH_Sage</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="口角下げ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>うー</Name>
+      <EnglishName>Fcl_MTH_Small</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="うー" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>口横広げ</Name>
+      <EnglishName>Fcl_MTH_Large</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="口横広げ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にっこり右</Name>
+      <EnglishName>Fcl_MTH_Fun_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にっこり右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にっこり左</Name>
+      <EnglishName>Fcl_MTH_Fun_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にっこり左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にっこり</Name>
+      <EnglishName>Fcl_MTH_Fun</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にっこり" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にこ右</Name>
+      <EnglishName>Fcl_MTH_Niko_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にこ右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にこ左</Name>
+      <EnglishName>Fcl_MTH_Niko_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にこ左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>にこ</Name>
+      <EnglishName>Fcl_MTH_Niko</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="にこ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ワ</Name>
+      <EnglishName>Fcl_MTH_Joy_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ワ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>▲</Name>
+      <EnglishName>Fcl_MTH_Sorrow_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="▲" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>わー</Name>
+      <EnglishName>Fcl_MTH_Surprised_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="わー" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>べー</Name>
+      <EnglishName>Fcl_MTH_tongueOut_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="べー" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ぺろり</Name>
+      <EnglishName>Fcl_MTH_tongueUp_Group</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ぺろり" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>肌牙左</Name>
+      <EnglishName>Fcl_MTH_SkinFung_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="肌牙左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>肌牙右</Name>
+      <EnglishName>Fcl_MTH_SkinFung_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="肌牙右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>肌牙</Name>
+      <EnglishName>Fcl_MTH_SkinFung</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="肌牙" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>牙</Name>
+      <EnglishName>Fcl_HA_Fung1</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="牙" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>牙上右</Name>
+      <EnglishName>Fcl_HA_Fung1_Up_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="牙上右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>牙上左</Name>
+      <EnglishName>Fcl_HA_Fung1_Up_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="牙上左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>牙上</Name>
+      <EnglishName>Fcl_HA_Fung1_Up</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="牙上" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>牙下右</Name>
+      <EnglishName>Fcl_HA_Fung1_Low_R</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="牙下右" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>牙下左</Name>
+      <EnglishName>Fcl_HA_Fung1_Low_L</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="牙下左" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>牙下</Name>
+      <EnglishName>Fcl_HA_Fung1_Low</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="牙下" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ギザ歯上</Name>
+      <EnglishName>Fcl_HA_Fung2_Up</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ギザ歯上" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ギザ歯下</Name>
+      <EnglishName>Fcl_HA_Fung2_Low</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ギザ歯下" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ギザ歯</Name>
+      <EnglishName>Fcl_HA_Fung2</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ギザ歯" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>真ん中牙上</Name>
+      <EnglishName>Fcl_HA_Fung3_Up</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="真ん中牙上" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>真ん中牙下</Name>
+      <EnglishName>Fcl_HA_Fung3_Low</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="真ん中牙下" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>真ん中牙</Name>
+      <EnglishName>Fcl_HA_Fung3</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="真ん中牙" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>歯隠</Name>
+      <EnglishName>Fcl_HA_Hide</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="歯隠" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>歯短上</Name>
+      <EnglishName>Fcl_HA_Short_Up</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="歯短上" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>歯短下</Name>
+      <EnglishName>Fcl_HA_Short_Low</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="歯短下" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>歯短</Name>
+      <EnglishName>Fcl_HA_Short</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="歯短" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>照れ</Name>
+      <EnglishName>Cheek_Dye</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="照れ" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>ニュートラル</Name>
+      <EnglishName>Fcl_ALL_Neutral</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="ニュートラル" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>怒</Name>
+      <EnglishName>Fcl_ALL_Angry</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="怒" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>楽</Name>
+      <EnglishName>Fcl_ALL_Fun</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="楽" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>喜</Name>
+      <EnglishName>Fcl_ALL_Joy</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="喜" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>哀</Name>
+      <EnglishName>Fcl_ALL_Sorrow</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="哀" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>驚</Name>
+      <EnglishName>Fcl_ALL_Surprised</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="驚" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>エッジOFF</Name>
+      <EnglishName>Edge_Off</EnglishName>
+      <Base>True</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="エッジOFF" Weight="100" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>両目↑</Name>
+      <EnglishName>Eyes_Up</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="両目↑" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>両目↓</Name>
+      <EnglishName>Eyes_Down</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="両目↓" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>両目←</Name>
+      <EnglishName>Eyes_Left</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="両目←" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>両目→</Name>
+      <EnglishName>Eyes_Right</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="両目→" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>左目↑</Name>
+      <EnglishName>Leye_Up</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="左目↑" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>左目↓</Name>
+      <EnglishName>Leye_Down</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="左目↓" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>左目←</Name>
+      <EnglishName>Leye_Left</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="左目←" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>左目→</Name>
+      <EnglishName>Leye_Right</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="左目→" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>右目↑</Name>
+      <EnglishName>Reye_Up</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="右目↑" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>右目↓</Name>
+      <EnglishName>Reye_Down</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="右目↓" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>右目←</Name>
+      <EnglishName>Reye_Left</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="右目←" Weight="50" />
+      </Facials>
+    </ItemClass>
+    <ItemClass>
+      <Name>右目→</Name>
+      <EnglishName>Reye_Right</EnglishName>
+      <Base>False</Base>
+      <Bone>False</Bone>
+      <Facials>
+        <Facial Name="右目→" Weight="50" />
+      </Facials>
+    </ItemClass>
+  </ItemClasses>
+  <Sequence>
+    <Track ID="0" />
+    <Track ID="1" />
+    <Track ID="2" />
+    <Track ID="3" />
+    <Track ID="4">
+      <Item>
+        <Name>う</Name>
+        <Weight>100</Weight>
+        <Position>1</Position>
+        <Width>9</Width>
+        <Keyframes>
+          <Keyframe X="0" Y="0" />
+          <Keyframe X="1" Y="100" />
+          <Keyframe X="7" Y="100" />
+          <Keyframe X="9" Y="0" />
+        </Keyframes>
+      </Item>
+      <Item>
+        <Name>あ</Name>
+        <Weight>100</Weight>
+        <Position>3</Position>
+        <Width>12</Width>
+        <Keyframes>
+          <Keyframe X="0" Y="0" />
+          <Keyframe X="3" Y="100" />
+          <Keyframe X="8" Y="100" />
+          <Keyframe X="12" Y="0" />
+        </Keyframes>
+      </Item>
+      <Item>
+        <Name>あ</Name>
+        <Weight>100</Weight>
+        <Position>7</Position>
+        <Width>25</Width>
+        <Keyframes>
+          <Keyframe X="0" Y="0" />
+          <Keyframe X="4" Y="72" />
+          <Keyframe X="21" Y="54" />
+          <Keyframe X="25" Y="0" />
+        </Keyframes>
+      </Item>
+      <Item>
+        <Name>あ</Name>
+        <Weight>100</Weight>
+        <Position>30</Position>
+        <Width>17</Width>
+        <Keyframes>
+          <Keyframe X="0" Y="0" />
+          <Keyframe X="5" Y="100" />
+          <Keyframe X="12" Y="100" />
+          <Keyframe X="17" Y="0" />
+        </Keyframes>
+      </Item>
+      <Item>
+        <Name>い</Name>
+        <Weight>100</Weight>
+        <Position>38</Position>
+        <Width>15</Width>
+        <Keyframes>
+          <Keyframe X="0" Y="0" />
+          <Keyframe X="4" Y="66" />
+          <Keyframe X="11" Y="64" />
+          <Keyframe X="15" Y="0" />
+        </Keyframes>
+      </Item>
+      <Item>
+        <Name>え</Name>
+        <Weight>100</Weight>
+        <Position>44</Position>
+        <Width>15</Width>
+        <Keyframes>
+          <Keyframe X="0" Y="0" />
+          <Keyframe X="4" Y="68" />
+          <Keyframe X="12" Y="66" />
+          <Keyframe X="15" Y="0" />
+        </Keyframes>
+      </Item>
+      <Item>
+        <Name>あ</Name>
+        <Weight>100</Weight>
+        <Position>51</Position>
+        <Width>14</Width>
+        <Keyframes>
+          <Keyframe X="0" Y="0" />
+          <Keyframe X="4" Y="78" />
+          <Keyframe X="10" Y="76" />
+          <Keyframe X="14" Y="0" />
+        </Keyframes>
+      </Item>
+      <Item>
+        <Name>い</Name>
+        <Weight>100</Weight>
+        <Position>56</Position>
+        <Width>33</Width>
+        <Keyframes>
+          <Keyframe X="0" Y="0" />
+          <Keyframe X="6" Y="94" />
+          <Keyframe X="23" Y="88" />
+          <Keyframe X="33" Y="0" />
+        </Keyframes>
+      </Item>
+      <Item>
+        <Name>喜</Name>
+        <Weight>100</Weight>
+        <Position>80</Position>
+        <Width>34</Width>
+        <Keyframes>
+          <Keyframe X="0" Y="0" />
+          <Keyframe X="6" Y="100" />
+          <Keyframe X="33" Y="100" />
+          <Keyframe X="34" Y="0" />
+        </Keyframes>
+      </Item>
+      <Item>
+        <Name>ウィンク連動</Name>
+        <Weight>100</Weight>
+        <Position>114</Position>
+        <Width>26</Width>
+        <Keyframes>
+          <Keyframe X="0" Y="0" />
+          <Keyframe X="3" Y="100" />
+          <Keyframe X="21" Y="100" />
+          <Keyframe X="26" Y="0" />
+        </Keyframes>
+      </Item>
+    </Track>
+  </Sequence>
+</FaceAndLips>

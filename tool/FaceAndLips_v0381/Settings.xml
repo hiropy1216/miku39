@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FaceAndLipsSettings Version="1.0">
+  <Width>913</Width>
+  <Height>1004</Height>
+  <MainVertical>323</MainVertical>
+  <RenderHorizontal>462</RenderHorizontal>
+  <SequenceVertical>155</SequenceVertical>
+  <SoundWhenMoving>False</SoundWhenMoving>
+  <Zoom>300</Zoom>
+  <ZoomSoundHeight>200</ZoomSoundHeight>
+  <WeightLine>Five</WeightLine>
+  <Volume>70</Volume>
+  <Tracking>True</Tracking>
+  <ItemWidth>15</ItemWidth>
+  <ItemWeight>100</ItemWeight>
+  <ItemLeft>5,100</ItemLeft>
+  <ItemRight>10,100</ItemRight>
+  <PlayHotKeys>
+    <PlayHotKey PlayName="Play">S</PlayHotKey>
+    <PlayHotKey PlayName="Current">D</PlayHotKey>
+    <PlayHotKey PlayName="Previous">Z</PlayHotKey>
+    <PlayHotKey PlayName="Range">X</PlayHotKey>
+    <PlayHotKey PlayName="Future">C</PlayHotKey>
+  </PlayHotKeys>
+  <TracksForItem>
+    <Track ItemName="あ">1</Track>
+    <Track ItemName="い">1</Track>
+    <Track ItemName="う">1</Track>
+    <Track ItemName="え">1</Track>
+    <Track ItemName="お">1</Track>
+    <Track ItemName="Eyes">3</Track>
+    <Track ItemName="Mouse">2</Track>
+    <Track ItemName="Brow">4</Track>
+    <Track ItemName="Etc">5</Track>
+  </TracksForItem>
+  <AutoBackup Count="3">30</AutoBackup>
+  <Language>ja</Language>
+  <ModelPath>C:\Users\hirop\local\git\HatsuneMiku\MMDModel\ひろルカ</ModelPath>
+  <MediaPath>C:\Users\hirop\local\git\HatsuneMiku\MMDMotion\マジ女神</MediaPath>
+  <VsqPath>
+  </VsqPath>
+  <VmdPath>C:\Users\hirop\local\git\HatsuneMiku\MMDMotion\マジ女神</VmdPath>
+  <FalPath>C:\Users\hirop\local\git\HatsuneMiku\MMDMotion\マジ女神</FalPath>
+</FaceAndLipsSettings>
