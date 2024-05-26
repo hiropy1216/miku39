@@ -5,10 +5,17 @@ VRoid Studio‚Åƒ‚ƒfƒ‹‚ðì¬‚µAƒc[ƒ‹‚Å•ÏŠ·‚µ‚½Œã‚ÅPMXƒGƒfƒBƒ^‚Å×•”‚ÌC³‚ð‚©‚¯‚
 VRoid Studio‚Í‚¨ŠG‚©‚«Š´Šo‚ÅAƒpƒ‰ƒ[ƒ^‚ðG‚éŒ`‚Åƒ‚ƒfƒ‹‚ªì‚êA’…‚¹‘Ö‚¦“™‚àŠÈ’P‚Éo—ˆ‚éƒ\ƒtƒg‚Ì‚½‚ßA
 ‰SŽÒ‚Ì•û‚Å‚àŽ©•ª‚Ìƒ‚ƒfƒ‹‚ªì‚è‚â‚·‚¢‚ÆŽv‚¢‚Ü‚·
 
-ì¬Žx‰‡—p‚ÉƒeƒNƒXƒ`ƒƒ—p‚Ì‰æ‘œƒtƒ@ƒCƒ‹AClipStudio‚ÌƒeƒNƒXƒ`ƒƒì¬—pƒvƒƒWƒFƒNƒgƒtƒ@ƒCƒ‹AVRoid‚ÌƒvƒƒWƒFƒNƒgƒtƒ@ƒCƒ‹‚É‡‚í‚¹‚ÄA
-‰SŽÒ‚ÌŽ„‚ªƒ‚ƒfƒ‹‚ðì‚é‚Ü‚Å‚Ìì‚è•û‚ð‹LÚ‚µ‚½Excelƒtƒ@ƒCƒ‹‚à“¯«‚µ‚Ä‚¨‚«‚Ü‚µ‚½
+ì¬Žx‰‡—p‚ÉVRoid—pƒeƒNƒXƒ`ƒƒ‰æ‘œƒtƒ@ƒCƒ‹AVRoid‚ÌƒvƒƒWƒFƒNƒgƒtƒ@ƒCƒ‹‚ð‡‚í‚¹‚Ä‚¨‚¢‚Ä‚¨‚«‚Ü‚µ‚½
+ì‚è•û‚Ìƒtƒ@ƒCƒ‹‚àì¬‚µ‚½‚Ì‚Å‚·‚ªAƒtƒ@ƒCƒ‹ƒTƒCƒY‚ª‘å‚«‚·‚¬‚Ä“ü‚è‚Ü‚¹‚ñ‚Å‚µ‚½
+VRoid‚Ìì‚è•ûAVRoid¨MMD—pƒtƒ@ƒCƒ‹‚Ö‚Ì•ÏŠ·‚ÌŽd•û‚ÍƒOƒO‚é‚Æo‚Ä‚«‚Ü‚·‚ªA
+•s–¾“_‚Æ‚©—L‚è‚Ü‚µ‚½‚çX(hiropy1216)‚Ü‚Å–â‚¢‡‚í‚¹’¸‚¯‚ê‚Î“š‚¦‚ê‚é‚ÆŽv‚¢‚Ü‚·
 
-ƒ‚ƒfƒ‹‚ÉŠÖ‚µ‚Ä‚ÍPLCƒ‰ƒCƒZƒ“ƒX‚Ì”ÍˆÍ“à‚ÅA‰ü•Ï‚µ‚Ä—˜—p‚µ‚Ä‚¢‚½‚¾‚¢‚Ä\‚¢‚Ü‚¹‚ñ
+ƒ‚ƒfƒ‹‚ÉŠÖ‚µ‚Ä‚ÍPLCƒ‰ƒCƒZƒ“ƒX(https://piapro.jp/license/character_guideline)‚Ì”ÍˆÍ“à‚ÅA‰ü•Ï‚µ‚Ä—˜—p‚µ‚Ä‚¢‚½‚¾‚¢‚Ä\‚¢‚Ü‚¹‚ñ
 VRoidStudio‚Ìƒ‰ƒCƒZƒ“ƒX‚ÌŠÖŒWãìŽÒ–¼‚ð•t‚¯‚Ä‚¢‚Ü‚·‚ªA—˜—p‚µ‚Ä’¸‚¢‚Ä‚àìŽÒ‚Ö‚Ì˜A—‚Í•s—v‚Å‚·
 Šæ’£‚Á‚ÄŽ©•ªŽ®ƒ~ƒN‚³‚ñ‚ðì‚Á‚Ä‚Ý‚Ä‚­‚¾‚³‚¢‚Ë
+
+Ÿ\¬•¨
+‚Ð‚ëƒ~ƒN.pmxF  @@@@‚Ð‚ëƒ~ƒN Ver1.0
+VRoid/model.vroidF     VRoid—pƒvƒƒWƒFƒNƒgƒtƒ@ƒCƒ‹
+VRoid/*.pngF@@@     VRoid—pƒeƒNƒXƒ`ƒƒƒtƒ@ƒCƒ‹
 
